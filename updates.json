@@ -1,0 +1,20 @@
+{
+  "linux-x64-prod": {
+    "readme": "Second release",
+    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
+    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
+    "version": "0.0.2"
+  },
+  "win32-x64-prod": {
+    "readme": "Second release",
+    "update": "http://192.168.1.112:8000/ws/v0.0.1/",
+    "install": "http://192.168.1.112:8000/ws/v0.0.1/Setup.exe",
+    "version": "2.0.0"
+  },
+  "darwin-x64-prod": {
+    "readme": "Second release",
+    "update": "https://github.com/FashionGo/Lambs_test/blob/master/release.json",
+    "install": "https://github.com/FashionGo/Lambs_test/blob/master/lambs2-2.0.0.dmg",
+    "version": "2.0.0"
+  }
+}
